@@ -222,6 +222,15 @@ section .container>ul>li>div>h3{
 .cost>ul>li{
     padding: 0.5em;
 }
+.cost>ul>li>span{
+    padding-left: 0.5em;
+}
+.cost>ul>li>i{
+    color: yellowgreen;
+}
+#cross{
+    color: red;
+}
 button:hover{
     box-shadow: 0 20px 30px #f1f1f1;
 }
