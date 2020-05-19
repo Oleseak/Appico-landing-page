@@ -66,7 +66,7 @@ section p {
     padding: 1.5em;
     margin-top: 2em;
     color: #fff;
-    background-color: blue;
+    background-color: #005bea;
     border-radius: 50px;
     border: none;
 }
@@ -97,8 +97,8 @@ section p {
 }
 #features ul.text-right>li:hover h2::before{
     color: white;
-    border: 0.5em solid blue;
-    background-color: blue;
+    border: 0.5em solid #005bea;
+    background-color: #005bea;
     border-radius: 100%;
 }
 #features ul.text-right>li>p{
@@ -120,7 +120,7 @@ section p {
     transition: 0.5s;
 }
 #features ul.text-right>li>p:hover{
-    border: 2px solid blue;
+    border: 2px solid #005bea;
     border-right: transparent;
 }
 #features ul.text-right>li>p:hover::after{
@@ -153,8 +153,8 @@ figure img{
 }
 #features ul.text-left>li:hover h2::before{
     color: white;
-    border: 0.5em solid blue;
-    background-color: blue;
+    border: 0.5em solid #005bea;
+    background-color: #005bea;
     border-radius: 100%;
 }
 #features ul.text-left>li>p{
@@ -175,7 +175,7 @@ figure img{
     transition: 0.5s;
 }
 #features ul.text-left>li>p:hover{
-    border: 2px solid blue;
+    border: 2px solid #005bea;
     border-left: transparent;
 }
 #features ul.text-left>li>p:hover::after{
@@ -236,7 +236,10 @@ button:hover{
 }
 #search{
     color: #fff;
-    background-color: blue;
+    background-color: #005bea;
+}
+#vibr>p{
+    color: #fff;
 }
 #search>.cost>a>button{
     background-color: #fff;
