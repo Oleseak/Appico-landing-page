@@ -161,6 +161,7 @@ figure img{
     width:15em;
 }
 
+
 @keyframes scrol{
     0%{
         transform: translateY(0.5em);
